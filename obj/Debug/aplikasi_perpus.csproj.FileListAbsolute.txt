@@ -1,0 +1,30 @@
+C:\Users\RPL51\source\repos\test input\test input\bin\Debug\test input.exe.config
+C:\Users\RPL51\source\repos\test input\test input\bin\Debug\test input.exe
+C:\Users\RPL51\source\repos\test input\test input\bin\Debug\test input.pdb
+C:\Users\RPL51\source\repos\test input\test input\obj\Debug\aplikasi_perpus.csprojAssemblyReference.cache
+C:\Users\RPL51\source\repos\test input\test input\obj\Debug\test_input.perpus.resources
+C:\Users\RPL51\source\repos\test input\test input\obj\Debug\test_input.Properties.Resources.resources
+C:\Users\RPL51\source\repos\test input\test input\obj\Debug\aplikasi_perpus.csproj.GenerateResource.cache
+C:\Users\RPL51\source\repos\test input\test input\obj\Debug\aplikasi_perpus.csproj.CoreCompileInputs.cache
+C:\Users\RPL51\source\repos\test input\test input\obj\Debug\test input.exe
+C:\Users\RPL51\source\repos\test input\test input\obj\Debug\test input.pdb
+E:\test input\test input\bin\Debug\test input.exe.config
+E:\test input\test input\bin\Debug\test input.exe
+E:\test input\test input\bin\Debug\test input.pdb
+E:\test input\test input\obj\Debug\aplikasi_perpus.csprojAssemblyReference.cache
+E:\test input\test input\obj\Debug\test_input.perpus.resources
+E:\test input\test input\obj\Debug\test_input.Properties.Resources.resources
+E:\test input\test input\obj\Debug\aplikasi_perpus.csproj.GenerateResource.cache
+E:\test input\test input\obj\Debug\aplikasi_perpus.csproj.CoreCompileInputs.cache
+E:\test input\test input\obj\Debug\test input.exe
+E:\test input\test input\obj\Debug\test input.pdb
+E:\PBO\test input\test input\bin\Debug\test input.exe.config
+E:\PBO\test input\test input\bin\Debug\test input.exe
+E:\PBO\test input\test input\bin\Debug\test input.pdb
+E:\PBO\test input\test input\obj\Debug\aplikasi_perpus.csprojAssemblyReference.cache
+E:\PBO\test input\test input\obj\Debug\test_input.perpus.resources
+E:\PBO\test input\test input\obj\Debug\test_input.Properties.Resources.resources
+E:\PBO\test input\test input\obj\Debug\aplikasi_perpus.csproj.GenerateResource.cache
+E:\PBO\test input\test input\obj\Debug\aplikasi_perpus.csproj.CoreCompileInputs.cache
+E:\PBO\test input\test input\obj\Debug\test input.exe
+E:\PBO\test input\test input\obj\Debug\test input.pdb
